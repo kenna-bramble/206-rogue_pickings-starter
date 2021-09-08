@@ -57,8 +57,7 @@ header h1 {
 	padding: 20px 0px;
 	border-bottom: 3px solid #77a466;
 	margin: 20px 0 0 0;
-	display: flex;
-	justify-content: center;
+	text-align: center;
 	flex-basis: 100%;
 }
 header h1 span {
